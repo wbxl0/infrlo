@@ -1,5 +1,0 @@
-aiohttp
-requests
-grpcio
-protobuf>=4.25,<6
-psutil
